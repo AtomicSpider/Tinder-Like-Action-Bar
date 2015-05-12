@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TinderActionBar</string>
+
+    <!--Navigation Drawer-->
+    <string name="drawer_open">open</string>
+    <string name="drawer_close">close</string>
+</resources>
